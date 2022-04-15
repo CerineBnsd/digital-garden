@@ -1,15 +1,12 @@
-name: Jacky Zhao
+name: Cerine Bnsd
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My digital garden, to share with the world! 
 page_title:
-  "🪴 Quartz 3.2"
+  "Cerine Bnsd 🪴"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/CerineBnsd
